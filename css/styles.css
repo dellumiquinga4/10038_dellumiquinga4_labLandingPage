@@ -1,0 +1,51 @@
+body, html {
+    height: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+
+body {
+    background: linear-gradient(rgba(230, 117, 117), rgba(0,0,0,0.5)),url("../img/bg.png");
+    background-size: 100% 100%}.card{padding: 30px 40px;margin-top: 60px;
+    background-repeat: no-repeat;
+    color: black;
+}
+
+
+
+.text-description {
+    letter-spacing: 2px;
+    font-family: sans-serif;    
+}
+
+.form-control {
+    background: #dce8e6; !important;
+    color: #000000 !important;
+    text-color: black;
+}
+
+/*input::placeholder{
+    color: white;
+}*/
+
+a .fab {
+    color: white;
+    font-size: 30px;
+    margin: 0 10px;
+}   
+
+h1 {
+
+    color: white;
+}
+
+p {
+   color: white; 
+}
+.btn-light {
+    color: #212529;
+    background-color: #3cb59f;
+    border-color:#3cb59f;
+
+
